@@ -86,5 +86,7 @@ window.mainloop()
 
 
 ![upload 1](https://github.com/sreeramsr/Tkinter--sqlite3-Tech-launch/assets/135236418/f1c88182-8b9a-46da-8255-7e29c5a4ca3e)
+![upload 2](https://github.com/sreeramsr/Tkinter--sqlite3-Tech-launch/assets/135236418/0f895acc-80d7-4452-bdd8-855caccefb39)
 ![upload 3](https://github.com/sreeramsr/Tkinter--sqlite3-Tech-launch/assets/135236418/90ccaa90-36c6-4ba7-bf7f-b68d4005c583)
+![upload 5](https://github.com/sreeramsr/Tkinter--sqlite3-Tech-launch/assets/135236418/f026dbbf-1b5d-437e-ba68-dfa620ca2eef)
 
